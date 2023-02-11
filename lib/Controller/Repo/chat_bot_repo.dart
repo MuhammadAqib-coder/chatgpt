@@ -10,7 +10,7 @@ String chatBotMessage = '';
 class ChatBotRepo {
   static var newText =
       "The chatbot name will be Muhammad Aqib. The user name will be Flutter developer. The chatbot will help user in dart programming if the user have any problem";
-  static const apiKey = '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';
+  static const apiKey = 'Your ChatGPt Api key';
 
   static const baseurl = 'https://api.openai.com/v1/completions';
   static const headers = {
